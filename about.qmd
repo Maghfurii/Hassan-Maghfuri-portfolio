@@ -1,0 +1,42 @@
+---
+
+---
+title: "About Me"
+subtitle: "From Respiratory Care to Biomedical Informatics"
+---
+
+## My Background
+
+I am Hassan Maghfuri, a Registered Respiratory Therapist (RRT) and a graduate student pursuing a Master of Science in Biomedical and Health Informatics at Case Western Reserve University.
+
+I earned my Bachelor of Science in Respiratory Therapy from Indiana University of Pennsylvania in May 2024, graduating with a GPA of 3.90/4.00.
+
+After graduation, I worked at Allegheny General Hospital in Pittsburgh, Pennsylvania, where I gained over 1,500 hours of ICU bedside experience caring for critically ill patients.
+
+My experience in critical care helped me understand the importance of clinical judgment, teamwork, and accurate information in patient care.
+
+## Why Biomedical Informatics?
+
+Working in respiratory care encouraged me to explore how healthcare technology, data analysis, and artificial intelligence can support clinicians.
+
+I began my graduate studies at Case Western Reserve University in Spring 2026 to build on my clinical background and develop new skills in biomedical informatics.
+
+My coursework includes artificial intelligence in medicine, statistical analysis, epidemiology, and geographic information systems.
+
+## Professional and Research Interests
+
+My interests include respiratory care, critical care medicine, clinical decision support, artificial intelligence in healthcare, and biomedical informatics.
+
+I am particularly interested in how predictive models and healthcare data can improve mechanical ventilation management, identify respiratory complications, and support clinical decision-making in intensive care settings.
+
+## My Goals
+
+My long-term goal is to combine my clinical experience as a respiratory therapist with my knowledge of biomedical informatics to contribute to better patient outcomes and more effective healthcare delivery.
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/hassan-maghfuri-662274235/){.btn .btn-primary}
+
+[Email Me](mailto:hassanmaghfuri@hotmail.com){.btn .btn-outline-primary}
+
+---

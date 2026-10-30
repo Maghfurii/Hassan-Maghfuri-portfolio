@@ -1,0 +1,65 @@
+
+# Hassan Maghfuri | Professional Website
+
+project:
+  type: website
+  output-dir: docs
+
+  preview:
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+website:
+  title: "Hassan Maghfuri, RRT"
+  description: "Registered Respiratory Therapist and Biomedical & Health Informatics Graduate Student"
+  image: my_image.jpg
+
+  navbar:
+    pinned: true
+    background: "#15324F"
+    foreground: "#FFFFFF"
+
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About Me"
+        href: about.qmd
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+
+    right:
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: "https://www.linkedin.com/in/hassan-maghfuri-662274235/"
+      - icon: envelope
+        aria-label: Email
+        href: "mailto:hassanmaghfuri@hotmail.com"
+
+  search:
+    location: navbar
+    type: textbox
+
+  page-footer:
+    border: true
+    left: "© 2026 Hassan Maghfuri"
+    right: "Built with Quarto"
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme:
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

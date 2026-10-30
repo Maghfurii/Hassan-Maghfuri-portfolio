@@ -1,0 +1,63 @@
+
+---
+title: "Academic Projects"
+subtitle: "Biomedical Informatics, Respiratory Care, and Healthcare Research"
+---
+
+Welcome to my academic portfolio. These projects reflect my graduate coursework at Case Western Reserve University and my interest in combining clinical experience with data science, biomedical informatics, and healthcare research.
+
+## Artificial Intelligence in Medicine
+
+**Tools:** Python, TensorFlow, Keras, JupyterLab
+
+As part of my graduate coursework, I developed and evaluated neural network models for a multiclass classification problem.
+
+I explored different model architectures, including two-layer, three-layer, and deeper neural networks, and investigated the effects of dropout and model complexity on predictive performance.
+
+The project included model training, five-fold cross-validation, performance evaluation, and comparison of different neural network configurations.
+
+This experience helped me better understand how machine learning methods can be applied to complex problems and potentially support healthcare research and clinical decision-making.
+
+## Statistical Analysis and Reproducible Research
+
+**Tools:** R, RStudio, Quarto, tidyverse
+
+My statistical coursework involves working with real-world datasets to explore research questions through data cleaning, visualization, statistical modeling, and interpretation.
+
+I use R and Quarto to create reproducible analytical reports that combine code, statistical results, visualizations, and written explanations.
+
+I am particularly interested in applying statistical methods to clinical research, respiratory care, and patient outcomes.
+
+## Geographic Information Systems in Public Health
+
+**Tools:** ArcGIS Pro, ArcGIS Online
+
+I have used geographic information systems to explore spatial patterns related to public health and environmental conditions.
+
+My coursework has included geographic analysis and visualization of topics such as infectious disease patterns, severe weather, and environmental events.
+
+These projects have helped me understand how geographic information can support public health research and decision-making.
+
+## Epidemiology and Study Design
+
+**Focus:** Epidemiologic Methods, Study Design, Bias, and Risk Estimation
+
+Through my epidemiology coursework, I have studied observational and experimental research designs, including cohort studies, case-control studies, and randomized controlled trials.
+
+My work focuses on evaluating study validity, identifying potential sources of bias, interpreting associations, and understanding how research findings can inform healthcare decisions.
+
+I am also interested in applying epidemiologic methods to respiratory diseases, critical care outcomes, and healthcare-associated complications.
+
+---
+
+## My Research Interests
+
+My research interests include respiratory care, critical care medicine, artificial intelligence in healthcare, clinical decision support, and biomedical informatics.
+
+As a Registered Respiratory Therapist with over 1,500 hours of ICU bedside experience, I am particularly interested in improving respiratory care through research, data analysis, and emerging healthcare technologies.
+
+I am also interested in how artificial intelligence and predictive modeling can support mechanical ventilation management, identify patients at risk of respiratory complications, and improve clinical decision-making in intensive care settings.
+
+My long-term goal is to combine my clinical background in respiratory therapy with biomedical informatics to contribute to better patient outcomes and more effective healthcare delivery.
+
+For questions or potential collaborations, please [contact me](mailto:hassanmaghfuri@hotmail.com).

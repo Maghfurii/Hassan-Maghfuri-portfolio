@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download My CV"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hassan Maghfuri",
+    "section": "",
+    "text": "Registered Respiratory Therapist | Biomedical & Health Informatics Graduate Student\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     Email"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Hassan Maghfuri",
+    "section": "Welcome!",
+    "text": "Welcome!\nHello! I’m Hassan Maghfuri, a Registered Respiratory Therapist (RRT) and a graduate student pursuing a Master of Science in Biomedical and Health Informatics at Case Western Reserve University in Cleveland, Ohio.\nI earned my Bachelor of Science in Respiratory Therapy from Indiana University of Pennsylvania in May 2024, graduating with a GPA of 3.90/4.00. After completing my undergraduate degree, I worked as a Registered Respiratory Therapist at Allegheny General Hospital in Pittsburgh, Pennsylvania, from November 2024 to July 2025. During this time, I gained over 1,500 hours of bedside experience caring for critically ill patients.\nWorking in critical care helped me develop an appreciation for the importance of clinical decision-making, accurate information, and communication among healthcare professionals. It also encouraged me to explore how technology and data can improve the way healthcare is delivered.\nI began my graduate studies at Case Western Reserve University in Spring 2026. Through my coursework, I have been developing skills in statistical analysis, programming, machine learning, epidemiology, and geographic information systems.\nMy goal is to combine my clinical experience with biomedical informatics and data science to help improve patient care and healthcare decision-making."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hassan Maghfuri",
+    "section": "Education",
+    "text": "Education\n\nCase Western Reserve University\nMaster of Science in Biomedical and Health Informatics\nCleveland, Ohio | Spring 2026 – Present\nCurrently pursuing graduate studies focused on biomedical informatics, healthcare data, statistical methods, and applications of technology in medicine.\n\n\nIndiana University of Pennsylvania\nBachelor of Science in Respiratory Therapy\nIndiana, Pennsylvania | Graduated May 2024\nGPA: 3.90/4.00\nMy undergraduate education provided a strong foundation in respiratory care, cardiopulmonary physiology, clinical assessment, and the management of patients with respiratory conditions."
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Hassan Maghfuri",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nAllegheny General Hospital\nRegistered Respiratory Therapist\nPittsburgh, Pennsylvania | November 2024 – July 2025\nI worked in a clinical setting providing respiratory care to critically ill patients, gaining over 1,500 hours of ICU bedside experience.\nMy clinical background includes respiratory assessment, airway management, mechanical ventilation, and working with multidisciplinary healthcare teams."
+  },
+  {
+    "objectID": "index.html#academic-projects-and-technical-skills",
+    "href": "index.html#academic-projects-and-technical-skills",
+    "title": "Hassan Maghfuri",
+    "section": "Academic Projects and Technical Skills",
+    "text": "Academic Projects and Technical Skills\nMy graduate coursework has introduced me to several areas of healthcare research and technology.\nArtificial Intelligence in Medicine\nUsing Python and TensorFlow to explore machine learning, neural networks, and classification methods.\nStatistical Analysis\nUsing R, RStudio, and Quarto for data cleaning, exploratory analysis, statistical modeling, and reproducible reporting.\nEpidemiology\nStudying research designs, measures of disease occurrence, risk estimation, bias, and the interpretation of population health research.\nGeographic Information Systems\nUsing ArcGIS to analyze and visualize geographic patterns in public health data."
+  },
+  {
+    "objectID": "index.html#professional-interests",
+    "href": "index.html#professional-interests",
+    "title": "Hassan Maghfuri",
+    "section": "Professional Interests",
+    "text": "Professional Interests\nI am interested in how clinical experience, biomedical informatics, artificial intelligence, and statistical analysis can work together to improve healthcare.\nHaving worked directly with patients in critical care, I understand the importance of accurate clinical information and timely decisions. I hope to use my experience in respiratory therapy alongside my graduate education to contribute to research and data-driven improvements in patient care."
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Hassan Maghfuri",
+    "section": "Connect With Me",
+    "text": "Connect With Me\nThank you for visiting my website. Feel free to explore my academic work, learn more about my background, or contact me.\nLinkedIn\nEmail Me\nView My CV"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Academic Projects",
+    "section": "",
+    "text": "Welcome to my academic portfolio. These projects reflect my graduate coursework at Case Western Reserve University and my interest in combining clinical experience with data science, biomedical informatics, and healthcare research."
+  },
+  {
+    "objectID": "projects/index.html#artificial-intelligence-in-medicine",
+    "href": "projects/index.html#artificial-intelligence-in-medicine",
+    "title": "Academic Projects",
+    "section": "Artificial Intelligence in Medicine",
+    "text": "Artificial Intelligence in Medicine\nTools: Python, TensorFlow, Keras, JupyterLab\nAs part of my graduate coursework, I developed and evaluated neural network models for a multiclass classification problem.\nI explored different model architectures, including two-layer, three-layer, and deeper neural networks, and investigated the effects of dropout and model complexity on predictive performance.\nThe project included model training, five-fold cross-validation, performance evaluation, and comparison of different neural network configurations.\nThis experience helped me better understand how machine learning methods can be applied to complex problems and potentially support healthcare research and clinical decision-making."
+  },
+  {
+    "objectID": "projects/index.html#statistical-analysis-and-reproducible-research",
+    "href": "projects/index.html#statistical-analysis-and-reproducible-research",
+    "title": "Academic Projects",
+    "section": "Statistical Analysis and Reproducible Research",
+    "text": "Statistical Analysis and Reproducible Research\nTools: R, RStudio, Quarto, tidyverse\nMy statistical coursework involves working with real-world datasets to explore research questions through data cleaning, visualization, statistical modeling, and interpretation.\nI use R and Quarto to create reproducible analytical reports that combine code, statistical results, visualizations, and written explanations.\nI am particularly interested in applying statistical methods to clinical research, respiratory care, and patient outcomes."
+  },
+  {
+    "objectID": "projects/index.html#geographic-information-systems-in-public-health",
+    "href": "projects/index.html#geographic-information-systems-in-public-health",
+    "title": "Academic Projects",
+    "section": "Geographic Information Systems in Public Health",
+    "text": "Geographic Information Systems in Public Health\nTools: ArcGIS Pro, ArcGIS Online\nI have used geographic information systems to explore spatial patterns related to public health and environmental conditions.\nMy coursework has included geographic analysis and visualization of topics such as infectious disease patterns, severe weather, and environmental events.\nThese projects have helped me understand how geographic information can support public health research and decision-making."
+  },
+  {
+    "objectID": "projects/index.html#epidemiology-and-study-design",
+    "href": "projects/index.html#epidemiology-and-study-design",
+    "title": "Academic Projects",
+    "section": "Epidemiology and Study Design",
+    "text": "Epidemiology and Study Design\nFocus: Epidemiologic Methods, Study Design, Bias, and Risk Estimation\nThrough my epidemiology coursework, I have studied observational and experimental research designs, including cohort studies, case-control studies, and randomized controlled trials.\nMy work focuses on evaluating study validity, identifying potential sources of bias, interpreting associations, and understanding how research findings can inform healthcare decisions.\nI am also interested in applying epidemiologic methods to respiratory diseases, critical care outcomes, and healthcare-associated complications."
+  },
+  {
+    "objectID": "projects/index.html#my-research-interests",
+    "href": "projects/index.html#my-research-interests",
+    "title": "Academic Projects",
+    "section": "My Research Interests",
+    "text": "My Research Interests\nMy research interests include respiratory care, critical care medicine, artificial intelligence in healthcare, clinical decision support, and biomedical informatics.\nAs a Registered Respiratory Therapist with over 1,500 hours of ICU bedside experience, I am particularly interested in improving respiratory care through research, data analysis, and emerging healthcare technologies.\nI am also interested in how artificial intelligence and predictive modeling can support mechanical ventilation management, identify patients at risk of respiratory complications, and improve clinical decision-making in intensive care settings.\nMy long-term goal is to combine my clinical background in respiratory therapy with biomedical informatics to contribute to better patient outcomes and more effective healthcare delivery.\nFor questions or potential collaborations, please contact me."
+  },
+  {
+    "objectID": "photography/index.html",
+    "href": "photography/index.html",
+    "title": "Photography",
+    "section": "",
+    "text": "As a wizard and scholar of Middle-earth, I have been studying the magic of the natural world for centuries. Through my self-portraits, I aim to capture the essence of my own being and reflect on my own journey through time. Each photograph is a reflection of my own experiences and emotions. Through my photography, I hope to offer a glimpse into my life as a scholar and adventurer, and inspire others to reflect on their own journeys through the world.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "about.html#my-background",
+    "href": "about.html#my-background",
+    "title": "About Me",
+    "section": "My Background",
+    "text": "My Background\nI am Hassan Maghfuri, a Registered Respiratory Therapist (RRT) and a graduate student pursuing a Master of Science in Biomedical and Health Informatics at Case Western Reserve University.\nI earned my Bachelor of Science in Respiratory Therapy from Indiana University of Pennsylvania in May 2024, graduating with a GPA of 3.90/4.00.\nAfter graduation, I worked at Allegheny General Hospital in Pittsburgh, Pennsylvania, where I gained over 1,500 hours of ICU bedside experience caring for critically ill patients.\nMy experience in critical care helped me understand the importance of clinical judgment, teamwork, and accurate information in patient care."
+  },
+  {
+    "objectID": "about.html#why-biomedical-informatics",
+    "href": "about.html#why-biomedical-informatics",
+    "title": "About Me",
+    "section": "Why Biomedical Informatics?",
+    "text": "Why Biomedical Informatics?\nWorking in respiratory care encouraged me to explore how healthcare technology, data analysis, and artificial intelligence can support clinicians.\nI began my graduate studies at Case Western Reserve University in Spring 2026 to build on my clinical background and develop new skills in biomedical informatics.\nMy coursework includes artificial intelligence in medicine, statistical analysis, epidemiology, and geographic information systems."
+  },
+  {
+    "objectID": "about.html#professional-and-research-interests",
+    "href": "about.html#professional-and-research-interests",
+    "title": "About Me",
+    "section": "Professional and Research Interests",
+    "text": "Professional and Research Interests\nMy interests include respiratory care, critical care medicine, clinical decision support, artificial intelligence in healthcare, and biomedical informatics.\nI am particularly interested in how predictive models and healthcare data can improve mechanical ventilation management, identify respiratory complications, and support clinical decision-making in intensive care settings."
+  },
+  {
+    "objectID": "about.html#my-goals",
+    "href": "about.html#my-goals",
+    "title": "About Me",
+    "section": "My Goals",
+    "text": "My Goals\nMy long-term goal is to combine my clinical experience as a respiratory therapist with my knowledge of biomedical informatics to contribute to better patient outcomes and more effective healthcare delivery."
+  },
+  {
+    "objectID": "about.html#connect-with-me",
+    "href": "about.html#connect-with-me",
+    "title": "About Me",
+    "section": "Connect With Me",
+    "text": "Connect With Me\nLinkedIn\nEmail Me"
+  }
+]

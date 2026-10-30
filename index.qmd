@@ -1,0 +1,100 @@
+
+---
+title: "Hassan Maghfuri"
+about:
+  template: jolla
+  id: about-block
+  image: "my_image.jpg"
+  image-shape: rounded
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/hassan-maghfuri-662274235/"
+    - icon: envelope
+      text: Email
+      href: "mailto:hassanmaghfuri@hotmail.com"
+---
+
+::: {#about-block}
+Registered Respiratory Therapist | Biomedical & Health Informatics Graduate Student
+:::
+
+## Welcome!
+
+Hello! I'm Hassan Maghfuri, a Registered Respiratory Therapist (RRT) and a graduate student pursuing a Master of Science in Biomedical and Health Informatics at Case Western Reserve University in Cleveland, Ohio.
+
+I earned my Bachelor of Science in Respiratory Therapy from Indiana University of Pennsylvania in May 2024, graduating with a GPA of 3.90/4.00. After completing my undergraduate degree, I worked as a Registered Respiratory Therapist at Allegheny General Hospital in Pittsburgh, Pennsylvania, from November 2024 to July 2025. During this time, I gained over 1,500 hours of bedside experience caring for critically ill patients.
+
+Working in critical care helped me develop an appreciation for the importance of clinical decision-making, accurate information, and communication among healthcare professionals. It also encouraged me to explore how technology and data can improve the way healthcare is delivered.
+
+I began my graduate studies at Case Western Reserve University in Spring 2026. Through my coursework, I have been developing skills in statistical analysis, programming, machine learning, epidemiology, and geographic information systems.
+
+My goal is to combine my clinical experience with biomedical informatics and data science to help improve patient care and healthcare decision-making.
+
+## Education
+
+### Case Western Reserve University
+
+**Master of Science in Biomedical and Health Informatics**
+
+Cleveland, Ohio | Spring 2026 – Present
+
+Currently pursuing graduate studies focused on biomedical informatics, healthcare data, statistical methods, and applications of technology in medicine.
+
+### Indiana University of Pennsylvania
+
+**Bachelor of Science in Respiratory Therapy**
+
+Indiana, Pennsylvania | Graduated May 2024
+
+**GPA: 3.90/4.00**
+
+My undergraduate education provided a strong foundation in respiratory care, cardiopulmonary physiology, clinical assessment, and the management of patients with respiratory conditions.
+
+## Professional Experience
+
+### Allegheny General Hospital
+
+**Registered Respiratory Therapist**
+
+Pittsburgh, Pennsylvania | November 2024 – July 2025
+
+I worked in a clinical setting providing respiratory care to critically ill patients, gaining over 1,500 hours of ICU bedside experience.
+
+My clinical background includes respiratory assessment, airway management, mechanical ventilation, and working with multidisciplinary healthcare teams.
+
+## Academic Projects and Technical Skills
+
+My graduate coursework has introduced me to several areas of healthcare research and technology.
+
+**Artificial Intelligence in Medicine**
+
+Using Python and TensorFlow to explore machine learning, neural networks, and classification methods.
+
+**Statistical Analysis**
+
+Using R, RStudio, and Quarto for data cleaning, exploratory analysis, statistical modeling, and reproducible reporting.
+
+**Epidemiology**
+
+Studying research designs, measures of disease occurrence, risk estimation, bias, and the interpretation of population health research.
+
+**Geographic Information Systems**
+
+Using ArcGIS to analyze and visualize geographic patterns in public health data.
+
+## Professional Interests
+
+I am interested in how clinical experience, biomedical informatics, artificial intelligence, and statistical analysis can work together to improve healthcare.
+
+Having worked directly with patients in critical care, I understand the importance of accurate clinical information and timely decisions. I hope to use my experience in respiratory therapy alongside my graduate education to contribute to research and data-driven improvements in patient care.
+
+## Connect With Me
+
+Thank you for visiting my website. Feel free to explore my academic work, learn more about my background, or contact me.
+
+[LinkedIn](https://www.linkedin.com/in/hassan-maghfuri-662274235/){.btn .btn-primary}
+
+[Email Me](mailto:hassanmaghfuri@hotmail.com){.btn .btn-outline-primary}
+
+[View My CV](cv/index.qmd){.btn .btn-outline-primary}
